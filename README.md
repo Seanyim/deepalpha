@@ -1,5 +1,8 @@
 # deepalpha
 
+**English | [简体中文](README.zh-CN.md)**
+
+
 > **Unified equity, crypto & macro research router for Claude — backed by primary-source SEC data (free, no API key).**
 
 deepalpha is a [Claude skill](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview): a self-contained package of instructions, reference docs, and Python calculators that turns Claude into an investment-research analyst. Ask any investing question — a single stock, an ETF, a sector, Bitcoin, the macro backdrop, or your whole portfolio — and deepalpha auto-classifies the intent, fires only the relevant analysis modules, pulls primary-source data, runs each framework, and synthesizes a dashboard plus a consistent **Investment Signal Block**.
